@@ -1,4 +1,7 @@
-﻿# Simple Quantum Algorithms Sample #
+﻿This is taken directly out of the Microsoft Examples @ https://github.com/Microsoft/Quantum.git
+
+
+# Simple Quantum Algorithms Sample #
 
 This sample describes three simple quantum algorithms: the Bernstein-Vazirani quantum algorithm to learn a parity function, the Deutsch-Jozsa quantum algorithm to distinguish constant Boolean functions from balanced ones, and the hidden shift quantum algorithm that identifies a shift pattern between so-called bent functions. 
 
